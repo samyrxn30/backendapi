@@ -27,5 +27,5 @@ server.put('/updatedata', put.queryparamsID , put.verificationexitence , put.Upd
 
 server.post('/etc', getInfoUser.queryparams , getInfoUser.ValueUser) //acess data user ok  //swargger ok
 ```
- #Aprendizado
+ # Aprendizado
  Com o decorrer do projeto conseguir desenvolver diversas habilidades em node js e aprender um pouco mais sobre segurança, Estrutura de dados, Fluxo de dados, Git Hub , SQL , ORM , Proxy Reverso, e por fim um pouco de Web Sockets
